@@ -1,0 +1,7 @@
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\bin\Release\DAL_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\bin\Release\DAL_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\bin\Release\ET_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\bin\Release\ET_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\obj\Release\DAL_QLNH.csprojResolveAssemblyReference.cache
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\obj\Release\DAL_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\obj\Release\DAL_QLNH.pdb

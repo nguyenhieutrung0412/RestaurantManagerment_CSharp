@@ -1,0 +1,9 @@
+H:\ \LTUD\QuanLyNhaHang\BUS_QLNH\bin\Release\BUS_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\BUS_QLNH\bin\Release\BUS_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\BUS_QLNH\bin\Release\DAL_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\BUS_QLNH\bin\Release\ET_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\BUS_QLNH\bin\Release\DAL_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\BUS_QLNH\bin\Release\ET_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\BUS_QLNH\obj\Release\BUS_QLNH.csprojResolveAssemblyReference.cache
+H:\ \LTUD\QuanLyNhaHang\BUS_QLNH\obj\Release\BUS_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\BUS_QLNH\obj\Release\BUS_QLNH.pdb

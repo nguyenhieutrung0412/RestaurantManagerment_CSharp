@@ -1,0 +1,44 @@
+E:\LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\DAL_QLNH.dll
+E:\LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\DAL_QLNH.pdb
+E:\LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.csprojResolveAssemblyReference.cache
+E:\LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.dll
+E:\LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.pdb
+E:\LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\ET_QLNH.dll
+E:\LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\ET_QLNH.pdb
+H:\LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\DAL_QLNH.dll
+H:\LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\DAL_QLNH.pdb
+H:\LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\ET_QLNH.dll
+H:\LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\ET_QLNH.pdb
+H:\LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.csprojResolveAssemblyReference.cache
+H:\LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.dll
+H:\LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\DAL_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\DAL_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\ET_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\ET_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.csprojResolveAssemblyReference.cache
+H:\LTUD\Project\QuanLyNhaHang\DAL_QLNH\bin\Debug\DAL_QLNH.dll
+H:\LTUD\Project\QuanLyNhaHang\DAL_QLNH\bin\Debug\DAL_QLNH.pdb
+H:\LTUD\Project\QuanLyNhaHang\DAL_QLNH\bin\Debug\ET_QLNH.dll
+H:\LTUD\Project\QuanLyNhaHang\DAL_QLNH\bin\Debug\ET_QLNH.pdb
+H:\LTUD\Project\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.csprojResolveAssemblyReference.cache
+H:\LTUD\Project\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.dll
+H:\LTUD\Project\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.pdb
+H:\NMLTPM\project LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\DAL_QLNH.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\DAL_QLNH.pdb
+H:\NMLTPM\project LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\ET_QLNH.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\ET_QLNH.pdb
+H:\NMLTPM\project LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.csprojResolveAssemblyReference.cache
+H:\NMLTPM\project LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.pdb
+E:\project LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\DAL_QLNH.dll
+E:\project LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\DAL_QLNH.pdb
+E:\project LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\ET_QLNH.dll
+E:\project LTUD\QuanLyNhaHang\DAL_QLNH\bin\Debug\ET_QLNH.pdb
+E:\project LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.csproj.AssemblyReference.cache
+E:\project LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.csproj.CoreCompileInputs.cache
+E:\project LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.csproj.CopyComplete
+E:\project LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.dll
+E:\project LTUD\QuanLyNhaHang\DAL_QLNH\obj\Debug\DAL_QLNH.pdb

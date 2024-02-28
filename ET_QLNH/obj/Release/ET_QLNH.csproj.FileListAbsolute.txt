@@ -1,0 +1,4 @@
+H:\ \LTUD\QuanLyNhaHang\ET_QLNH\bin\Release\ET_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\ET_QLNH\bin\Release\ET_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\ET_QLNH\obj\Release\ET_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\ET_QLNH\obj\Release\ET_QLNH.pdb

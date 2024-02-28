@@ -1,0 +1,266 @@
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csproj.GenerateResource.Cache
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.pdb
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.pdb
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.pdb
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.Shared.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\stdole.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\stdole.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.pdb
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.pdb
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.pdb
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csproj.GenerateResource.Cache
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_Login.resources
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.formManHinhChinh.resources
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_KhuVuc.resources
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLKhachHang.resources
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLNV.resources
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_KhuVuc.resources
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_Login.resources
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.formManHinhChinh.resources
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLKhachHang.resources
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLNV.resources
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\FlashControlV71.dll
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ShockwaveFlashObjects.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.pdb
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_KhuVuc.resources
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_Login.resources
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.formManHinhChinh.resources
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLKhachHang.resources
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLNV.resources
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csproj.GenerateResource.Cache
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_LoaiKH.resources
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_LoaiKH.resources
+E:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.RPParaNhanVien.resources
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ShockwaveFlashObjects.dll
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_LoaiKH.resources
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.RPParaNhanVien.resources
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_MonAn.resources
+H:\LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLBan.resources
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ShockwaveFlashObjects.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\stdole.dll
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_MonAn.resources
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLBan.resources
+H:\ \LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.Shared.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\FlashControlV71.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ShockwaveFlashObjects.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\stdole.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.pdb
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.pdb
+D:\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.pdb
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_KhuVuc.resources
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_MonAn.resources
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLBan.resources
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_LoaiKH.resources
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_Login.resources
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.formManHinhChinh.resources
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLKhachHang.resources
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLNV.resources
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csproj.GenerateResource.Cache
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ShockwaveFlashObjects.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\stdole.dll
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.pdb
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.pdb
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.pdb
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_KhuVuc.resources
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_MonAn.resources
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLBan.resources
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_LoaiKH.resources
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_Login.resources
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.formManHinhChinh.resources
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLKhachHang.resources
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLNV.resources
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csproj.GenerateResource.Cache
+H:\LTUD\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_DoiMatKhau.resources
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ShockwaveFlashObjects.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\stdole.dll
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.pdb
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.pdb
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.pdb
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_BanHang.resources
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_KhuVuc.resources
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_MonAn.resources
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLBan.resources
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_LoaiKH.resources
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_Login.resources
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.formManHinhChinh.resources
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLKhachHang.resources
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLNV.resources
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_DoiMatKhau.resources
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+H:\NMLTPM\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csproj.GenerateResource.Cache
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ShockwaveFlashObjects.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\stdole.dll
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS_QLNH.pdb
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ET_QLNH.pdb
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAL_QLNH.pdb
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csproj.AssemblyReference.cache
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_BanHang.resources
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_KhuVuc.resources
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_MonAn.resources
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLBan.resources
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_LoaiKH.resources
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_Login.resources
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.formManHinhChinh.resources
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLKhachHang.resources
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_QLNV.resources
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.GUI_DoiMatKhau.resources
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csproj.GenerateResource.cache
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csproj.CoreCompileInputs.cache
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\GUI_QuanLyNhaHang.csproj.CopyComplete
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+E:\project LTUD\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
